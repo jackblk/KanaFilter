@@ -1,0 +1,52 @@
+[Adblock Plus 2.0]
+! Title: KanaFilter
+! Homepage: https://github.com/jackblk/KanaFilter/
+! Title: Kana Filter
+! Expires: 1 days
+! Version: 1.1
+! Last modified: 8/9/2017
+
+! ================ 3rd party adverts & trackers =============================
+||adplxmd.com^$popup
+||bebi.com
+||8live.com
+||superadexchange.com^$popup
+||adxprts.com^$popup
+||terraclicks.com^$popup
+||videowood.tv^$popup
+||clickadu.com^$popup
+||388bet.com^$popup
+||tradeadexchange.com^$popup
+||loading-delivery2.com^$popup
+||trafficstars.com^$popup,image
+||thewhizproducts.com^
+||adexchangecloud.com^$popup
+||trafficshop.com^
+||ctyxuatkhaulaodong.com^
+||dafauudai.com^
+||adclickservice.com^
+||geniusdisplay.com^
+||iwanttodeliver.com^$popup
+||dxtrack22.info^$popup
+||9icmzvn6.website^$popup
+||tuoi69.com/banner/
+||huongvnblog.com
+||azxsd.pro
+||randomvideo.co
+||thecookedpea.com
+
+
+
+! ================ Special sites =====================
+@@||static.hayhaytv.com/advertisement.js?*
+@@||chiasenhac.vn/js/ads.js$script
+
+! ================ Element hiding per site====================
+! facebook.com###stream_pagelet [id^="hyperfeed_story_id_"]:has(span._4dcu)
+
+! ================ Element hiding whitelist ==========
+slashfilm.com#@#[id^="div-gpt-ad"]
+slashfilm.com#@#[id^="ads"]:not(#adsIfrme)
+
+! ================ Whitelist==========================
+@@||reddituploads.com^$image,popup
