@@ -2,9 +2,9 @@
 ! Title: KanaFilter
 ! Homepage: https://github.com/jackblk/KanaFilter/
 ! Title: Kana Filter
-! Expires: 1 days
+! Expires: 4 days
 ! Version: 1.1
-! Last modified: 8/9/2017
+! Last modified: 27/9/2017
 
 ! ================ 3rd party adverts & trackers =============================
 ||adplxmd.com^$popup
