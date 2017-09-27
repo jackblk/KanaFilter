@@ -23,6 +23,7 @@
 ||adexchangecloud.com^$popup
 ||trafficshop.com^
 ||ctyxuatkhaulaodong.com^
+||doitruy.net^$popup
 ||dafauudai.com^
 ||adclickservice.com^
 ||geniusdisplay.com^
