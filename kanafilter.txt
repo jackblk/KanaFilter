@@ -44,7 +44,6 @@
 @@||chiasenhac.vn/js/ads.js$script
 
 ! ================ Element hiding per site====================
-facebook.com###stream_pagelet [id^="hyperfeed_story_id_"]:has(span._4dcu)
 
 ! ================ Element hiding whitelist ==========
 slashfilm.com#@#[id^="div-gpt-ad"]
