@@ -8,8 +8,8 @@
 
 ! ================ 3rd party adverts & trackers =============================
 ||adplxmd.com^$popup
-||bebi.com
-||8live.com
+||bebi.com^
+||8live.com^
 ||superadexchange.com^$popup
 ||adxprts.com^$popup
 ||terraclicks.com^$popup
@@ -31,12 +31,11 @@
 ||dxtrack22.info^$popup
 ||9icmzvn6.website^$popup
 ||tuoi69.com/banner/
-||huongvnblog.com
-||azxsd.pro
-||randomvideo.co
-||thecookedpea.com
-||cpaclickoffers.com
-||axzsd.pro
+||huongvnblog.com^
+||azxsd.pro^
+||randomvideo.co^
+||thecookedpea.com^
+||cpaclickoffers.com^
 ||kisshentai.net^$popup
 
 
