@@ -4,7 +4,7 @@
 ! Title: Kana Filter
 ! Expires: 4 days
 ! Version: 1.1
-! Last modified: 27/9/2017
+! Last modified: 24/10/2017
 
 ! ================ 3rd party adverts & trackers =============================
 ||adplxmd.com^$popup
