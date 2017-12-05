@@ -45,7 +45,7 @@
 @@||chiasenhac.vn/js/ads.js$script
 
 ! ================ Element hiding per site====================
-www.facebook.com##.ego_column.d_unhu23te4.pagelet > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
 
 
 ! ================ Element hiding whitelist ==========
