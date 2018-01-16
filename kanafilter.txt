@@ -37,7 +37,8 @@
 ||thecookedpea.com^
 ||cpaclickoffers.com^
 ||kisshentai.net^$popup
-
+||c.mhcdn.net/store/banner/*$image
+||hopamchuan.com/assets/images/banners/*$image
 
 
 ! ================ Special sites =====================
@@ -45,7 +46,9 @@
 @@||chiasenhac.vn/js/ads.js$script
 
 ! ================ Element hiding per site====================
-
+www.mangahere.cc##.mb10.box_radius:nth-of-type(4)
+www.mangahere.cc##.body-bg-left
+www.mangahere.cc##.body-bg-right
 
 
 ! ================ Element hiding whitelist ==========
