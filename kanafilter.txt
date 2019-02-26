@@ -39,6 +39,8 @@
 ||kisshentai.net^$popup
 ||c.mhcdn.net/store/banner/*$image
 ||hopamchuan.com/assets/images/banners/*$image
+||gillynn.com^$popup
+||cobalten.com^$popup
 
 
 ! ================ Special sites =====================
