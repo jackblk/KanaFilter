@@ -41,6 +41,7 @@
 ||hopamchuan.com/assets/images/banners/*$image
 ||gillynn.com^$popup
 ||cobalten.com^$popup
+||koindut.com^$popup
 
 
 ! ================ Special sites =====================
